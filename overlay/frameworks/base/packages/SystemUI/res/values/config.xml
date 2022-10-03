@@ -30,5 +30,5 @@
     <dimen name="config_rounded_mask_size">122px</dimen>
 
     <!-- The radius of the enrollment progress bar, in dp -->
-    <integer name="config_udfpsEnrollProgressBar" translatable="false">106</integer>
+    <integer name="config_udfpsEnrollProgressBar" translatable="false">112</integer>
 </resources>
