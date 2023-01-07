@@ -4,6 +4,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# A/B
+TARGET_IS_VAB := true
+
 # Fingerprint
 TARGET_HAS_UDFPS := true
 
